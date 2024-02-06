@@ -93,6 +93,7 @@ dependencia para: biblioteca de icons
 
 npm install phosphor-react 
 
+05/02/2024: 
 https://reactrouter.com/en/main/start/tutorial
 dependencias para: criação das rotas
 
