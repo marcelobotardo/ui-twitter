@@ -88,6 +88,12 @@ rem tamanho relativo
 
 https://www.figma.com/community/file/1202694130789327431/twitter-ui
 
-https://phosphoricons.com/ biblioteca de icons
+https://phosphoricons.com
+dependencia para: biblioteca de icons
 
 npm install phosphor-react 
+
+https://reactrouter.com/en/main/start/tutorial
+dependencias para: criação das rotas
+
+npm install react-router-dom localforage match-sorter sort-by
